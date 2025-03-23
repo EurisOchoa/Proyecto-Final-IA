@@ -1,7 +1,7 @@
-# Proyecto-de-Final-IA
+e# Proyecto-de-Final-IA
 
-## Nombre
+## Nombre: Euris Ochoa
 
-## Matrícula
+## Matrícula: 19-SISN-2-022
 
-## Proyecto
+## Proyecto: Modelo de reconocimiento Facial
